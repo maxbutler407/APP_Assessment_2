@@ -1,4 +1,4 @@
-For our Applied Programming Paradigms Assessment 2 we were asked to create a banking system.
+# For our Applied Programming Paradigms Assessment 2 we were asked to create a banking system.
 
 Features include:
   - Depositing and withdrawing a specified amount.
