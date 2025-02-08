@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maxbu\\OneDrive - University of Lincoln\\Documents\\Computer Science\\Applied Programming Paradigms\\Assessment2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E88F3A5-3D1D-4F68-B65B-F487E168174B}|Assessment2\\Assessment2.vcxproj|C:\\Users\\maxbu\\OneDrive - University of Lincoln\\Documents\\Computer Science\\Applied Programming Paradigms\\Assessment2\\Assessment2\\Assessment2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8E88F3A5-3D1D-4F68-B65B-F487E168174B}|Assessment2\\Assessment2.vcxproj|solutionrelative:Assessment2\\Assessment2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E88F3A5-3D1D-4F68-B65B-F487E168174B}|Assessment2\\Assessment2.vcxproj|C:\\Users\\maxbu\\OneDrive - University of Lincoln\\Documents\\Computer Science\\Applied Programming Paradigms\\Assessment2\\Assessment2\\Savings.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8E88F3A5-3D1D-4F68-B65B-F487E168174B}|Assessment2\\Assessment2.vcxproj|solutionrelative:Assessment2\\Savings.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E88F3A5-3D1D-4F68-B65B-F487E168174B}|Assessment2\\Assessment2.vcxproj|C:\\Users\\maxbu\\OneDrive - University of Lincoln\\Documents\\Computer Science\\Applied Programming Paradigms\\Assessment2\\Assessment2\\Savings.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8E88F3A5-3D1D-4F68-B65B-F487E168174B}|Assessment2\\Assessment2.vcxproj|solutionrelative:Assessment2\\Savings.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E88F3A5-3D1D-4F68-B65B-F487E168174B}|Assessment2\\Assessment2.vcxproj|C:\\Users\\maxbu\\OneDrive - University of Lincoln\\Documents\\Computer Science\\Applied Programming Paradigms\\Assessment2\\Assessment2\\Transaction.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8E88F3A5-3D1D-4F68-B65B-F487E168174B}|Assessment2\\Assessment2.vcxproj|solutionrelative:Assessment2\\Transaction.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E88F3A5-3D1D-4F68-B65B-F487E168174B}|Assessment2\\Assessment2.vcxproj|C:\\Users\\maxbu\\OneDrive - University of Lincoln\\Documents\\Computer Science\\Applied Programming Paradigms\\Assessment2\\Assessment2\\Transaction.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8E88F3A5-3D1D-4F68-B65B-F487E168174B}|Assessment2\\Assessment2.vcxproj|solutionrelative:Assessment2\\Transaction.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E88F3A5-3D1D-4F68-B65B-F487E168174B}|Assessment2\\Assessment2.vcxproj|C:\\Users\\maxbu\\OneDrive - University of Lincoln\\Documents\\Computer Science\\Applied Programming Paradigms\\Assessment2\\Assessment2\\Account.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8E88F3A5-3D1D-4F68-B65B-F487E168174B}|Assessment2\\Assessment2.vcxproj|solutionrelative:Assessment2\\Account.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E88F3A5-3D1D-4F68-B65B-F487E168174B}|Assessment2\\Assessment2.vcxproj|C:\\Users\\maxbu\\OneDrive - University of Lincoln\\Documents\\Computer Science\\Applied Programming Paradigms\\Assessment2\\Assessment2\\Current.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8E88F3A5-3D1D-4F68-B65B-F487E168174B}|Assessment2\\Assessment2.vcxproj|solutionrelative:Assessment2\\Current.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E88F3A5-3D1D-4F68-B65B-F487E168174B}|Assessment2\\Assessment2.vcxproj|C:\\Users\\maxbu\\OneDrive - University of Lincoln\\Documents\\Computer Science\\Applied Programming Paradigms\\Assessment2\\Assessment2\\InterestEarning.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8E88F3A5-3D1D-4F68-B65B-F487E168174B}|Assessment2\\Assessment2.vcxproj|solutionrelative:Assessment2\\InterestEarning.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E88F3A5-3D1D-4F68-B65B-F487E168174B}|Assessment2\\Assessment2.vcxproj|C:\\Users\\maxbu\\OneDrive - University of Lincoln\\Documents\\Computer Science\\Applied Programming Paradigms\\Assessment2\\Assessment2\\InterestEarning.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8E88F3A5-3D1D-4F68-B65B-F487E168174B}|Assessment2\\Assessment2.vcxproj|solutionrelative:Assessment2\\InterestEarning.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E88F3A5-3D1D-4F68-B65B-F487E168174B}|Assessment2\\Assessment2.vcxproj|C:\\Users\\maxbu\\OneDrive - University of Lincoln\\Documents\\Computer Science\\Applied Programming Paradigms\\Assessment2\\Assessment2\\Account.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8E88F3A5-3D1D-4F68-B65B-F487E168174B}|Assessment2\\Assessment2.vcxproj|solutionrelative:Assessment2\\Account.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E88F3A5-3D1D-4F68-B65B-F487E168174B}|Assessment2\\Assessment2.vcxproj|C:\\Users\\maxbu\\OneDrive - University of Lincoln\\Documents\\Computer Science\\Applied Programming Paradigms\\Assessment2\\Assessment2\\Current.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8E88F3A5-3D1D-4F68-B65B-F487E168174B}|Assessment2\\Assessment2.vcxproj|solutionrelative:Assessment2\\Current.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Assessment2.cpp",
+              "DocumentMoniker": "C:\\Users\\maxbu\\OneDrive - University of Lincoln\\Documents\\Computer Science\\Applied Programming Paradigms\\Assessment2\\Assessment2\\Assessment2.cpp",
+              "RelativeDocumentMoniker": "Assessment2\\Assessment2.cpp",
+              "ToolTip": "C:\\Users\\maxbu\\OneDrive - University of Lincoln\\Documents\\Computer Science\\Applied Programming Paradigms\\Assessment2\\Assessment2\\Assessment2.cpp",
+              "RelativeToolTip": "Assessment2\\Assessment2.cpp",
+              "ViewState": "AQIAAD8CAAAAAAAAAAAAAIQCAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-18T14:28:03.412Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Transaction.cpp",
+              "DocumentMoniker": "C:\\Users\\maxbu\\OneDrive - University of Lincoln\\Documents\\Computer Science\\Applied Programming Paradigms\\Assessment2\\Assessment2\\Transaction.cpp",
+              "RelativeDocumentMoniker": "Assessment2\\Transaction.cpp",
+              "ToolTip": "C:\\Users\\maxbu\\OneDrive - University of Lincoln\\Documents\\Computer Science\\Applied Programming Paradigms\\Assessment2\\Assessment2\\Transaction.cpp",
+              "RelativeToolTip": "Assessment2\\Transaction.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-15T12:56:39.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Transaction.h",
+              "DocumentMoniker": "C:\\Users\\maxbu\\OneDrive - University of Lincoln\\Documents\\Computer Science\\Applied Programming Paradigms\\Assessment2\\Assessment2\\Transaction.h",
+              "RelativeDocumentMoniker": "Assessment2\\Transaction.h",
+              "ToolTip": "C:\\Users\\maxbu\\OneDrive - University of Lincoln\\Documents\\Computer Science\\Applied Programming Paradigms\\Assessment2\\Assessment2\\Transaction.h",
+              "RelativeToolTip": "Assessment2\\Transaction.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-15T12:56:49.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Savings.cpp",
+              "DocumentMoniker": "C:\\Users\\maxbu\\OneDrive - University of Lincoln\\Documents\\Computer Science\\Applied Programming Paradigms\\Assessment2\\Assessment2\\Savings.cpp",
+              "RelativeDocumentMoniker": "Assessment2\\Savings.cpp",
+              "ToolTip": "C:\\Users\\maxbu\\OneDrive - University of Lincoln\\Documents\\Computer Science\\Applied Programming Paradigms\\Assessment2\\Assessment2\\Savings.cpp",
+              "RelativeToolTip": "Assessment2\\Savings.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-20T15:36:52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Savings.h",
+              "DocumentMoniker": "C:\\Users\\maxbu\\OneDrive - University of Lincoln\\Documents\\Computer Science\\Applied Programming Paradigms\\Assessment2\\Assessment2\\Savings.h",
+              "RelativeDocumentMoniker": "Assessment2\\Savings.h",
+              "ToolTip": "C:\\Users\\maxbu\\OneDrive - University of Lincoln\\Documents\\Computer Science\\Applied Programming Paradigms\\Assessment2\\Assessment2\\Savings.h",
+              "RelativeToolTip": "Assessment2\\Savings.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-20T15:37:05.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InterestEarning.cpp",
+              "DocumentMoniker": "C:\\Users\\maxbu\\OneDrive - University of Lincoln\\Documents\\Computer Science\\Applied Programming Paradigms\\Assessment2\\Assessment2\\InterestEarning.cpp",
+              "RelativeDocumentMoniker": "Assessment2\\InterestEarning.cpp",
+              "ToolTip": "C:\\Users\\maxbu\\OneDrive - University of Lincoln\\Documents\\Computer Science\\Applied Programming Paradigms\\Assessment2\\Assessment2\\InterestEarning.cpp",
+              "RelativeToolTip": "Assessment2\\InterestEarning.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-20T17:38:16.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InterestEarning.h",
+              "DocumentMoniker": "C:\\Users\\maxbu\\OneDrive - University of Lincoln\\Documents\\Computer Science\\Applied Programming Paradigms\\Assessment2\\Assessment2\\InterestEarning.h",
+              "RelativeDocumentMoniker": "Assessment2\\InterestEarning.h",
+              "ToolTip": "C:\\Users\\maxbu\\OneDrive - University of Lincoln\\Documents\\Computer Science\\Applied Programming Paradigms\\Assessment2\\Assessment2\\InterestEarning.h",
+              "RelativeToolTip": "Assessment2\\InterestEarning.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-20T17:38:28.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Current.cpp",
+              "DocumentMoniker": "C:\\Users\\maxbu\\OneDrive - University of Lincoln\\Documents\\Computer Science\\Applied Programming Paradigms\\Assessment2\\Assessment2\\Current.cpp",
+              "RelativeDocumentMoniker": "Assessment2\\Current.cpp",
+              "ToolTip": "C:\\Users\\maxbu\\OneDrive - University of Lincoln\\Documents\\Computer Science\\Applied Programming Paradigms\\Assessment2\\Assessment2\\Current.cpp",
+              "RelativeToolTip": "Assessment2\\Current.cpp",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-18T15:10:11.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Current.h",
+              "DocumentMoniker": "C:\\Users\\maxbu\\OneDrive - University of Lincoln\\Documents\\Computer Science\\Applied Programming Paradigms\\Assessment2\\Assessment2\\Current.h",
+              "RelativeDocumentMoniker": "Assessment2\\Current.h",
+              "ToolTip": "C:\\Users\\maxbu\\OneDrive - University of Lincoln\\Documents\\Computer Science\\Applied Programming Paradigms\\Assessment2\\Assessment2\\Current.h",
+              "RelativeToolTip": "Assessment2\\Current.h",
+              "ViewState": "AQIAAAIAAAAAAAAAAADgvxMAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-18T15:10:05.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Account.cpp",
+              "DocumentMoniker": "C:\\Users\\maxbu\\OneDrive - University of Lincoln\\Documents\\Computer Science\\Applied Programming Paradigms\\Assessment2\\Assessment2\\Account.cpp",
+              "RelativeDocumentMoniker": "Assessment2\\Account.cpp",
+              "ToolTip": "C:\\Users\\maxbu\\OneDrive - University of Lincoln\\Documents\\Computer Science\\Applied Programming Paradigms\\Assessment2\\Assessment2\\Account.cpp",
+              "RelativeToolTip": "Assessment2\\Account.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-18T14:54:07.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Account.h",
+              "DocumentMoniker": "C:\\Users\\maxbu\\OneDrive - University of Lincoln\\Documents\\Computer Science\\Applied Programming Paradigms\\Assessment2\\Assessment2\\Account.h",
+              "RelativeDocumentMoniker": "Assessment2\\Account.h",
+              "ToolTip": "C:\\Users\\maxbu\\OneDrive - University of Lincoln\\Documents\\Computer Science\\Applied Programming Paradigms\\Assessment2\\Assessment2\\Account.h",
+              "RelativeToolTip": "Assessment2\\Account.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-18T14:49:04.397Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
